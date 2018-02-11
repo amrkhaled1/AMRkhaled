@@ -13,7 +13,7 @@ var Cont2 = '';
 
 
 if (Link['indexOf']('post-preview') == -1 && Link['indexOf']('www.blogger') == -1 && Link['indexOf']('b/preview') == -1 && Link['indexOf']('template-editor') == -1 && Loct['indexOf']('website.com') == -1 && Loct['indexOf']('NAMESITE') == -1
-&& Link['indexOf']('aaaaaaa12356.blogspot.com.eg') == -1 && Link['indexOf']('aa') == -1 
+&& Link['indexOf']('aaaaaaa12356.blogspot.com.eg') == -1 && Link['indexOf']('ah') == -1 
 && Link['indexOf']('href') == -1 ) {
         redirect()
 }
